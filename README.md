@@ -1,37 +1,51 @@
 # Mehdi Zayani
 
-Full Stack & Cloud DevOps Engineer | Next.js / TailwindCSS / Node.js / DevOps
+Full Stack & Cloud DevOps Engineer | Next.js / Angular / React / TailwindCSS / Node.js / DevOps / Java / Spring 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayanimehdi/)
-[![Website](https://img.shields.io/badge/Portfolio-6e0dd0?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.mehdizayani.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e0dd0?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.mehdizayani.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehdi-zayani)
 
 ---
 
 ## About Me
 
-I am a passionate Full Stack & Cloud DevOps engineer with experience in building scalable web applications and deploying secure, modern infrastructures. I focus on clean, maintainable code and fast development cycles.
+I am a passionate Full Stack & Cloud DevOps Engineer with strong experience in modern web development, authentication systems, and scalable cloud architectures. I focus on building clean, maintainable code and accelerating development cycles.
 
-- 💻 **Stack**: Next.js, React, Node.js, TailwindCSS, TypeScript, JAVA , Spring, Angular  
-- ☁️ **Cloud & DevOps**: GCP, AWS, Vercel, Docker, CI/CD pipelines  
-- 🔧 **Tools**: Git, GitHub Actions, Terraform, Postman
-
----
-
-## Projects Highlights
-
-- **Next Auth Starter** – A modern authentication starter built with Next.js, TailwindCSS, and MongoDB.  
-  [View Repository](https://github.com/mehdi-zayani/nextjs-auth-starter)
-
-- **DeployMate** – Automates deployments and build pipelines for multi-cloud projects.
+- 💻 **Stack:** Next.js, React, Node.js, TailwindCSS, TypeScript, Java, Spring, Angular
+- ☁️ **Cloud & DevOps:** GCP, AWS, Vercel, Docker, CI/CD pipelines  
+- 🔧 **Tools:** Git, GitHub Actions, Terraform, Postman
 
 ---
 
-## Contact Me
+## Skills
 
-- ✉️ Email: [mehdi@mehdizayani.com](mailto:contact@mehdizayani.com)  
-- 🌐 Portfolio: [www.mehdizayani.com](https://www.mehdizayani.com)  
-- 🔗 LinkedIn: [zayanimehdi](https://www.linkedin.com/in/zayanimehdi/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+---
+
+## Featured Projects
+
+### Next Auth Starter
+A modern authentication starter built with Next.js, TailwindCSS, and MongoDB.  
+[View Repository](https://github.com/mehdi-zayani/nextjs-auth-starter)
+
+### DeployMate
+Automates deployments and build pipelines for multi-cloud projects.  
+
+---
+
+## Contact
+
+- ✉️ **Email:** [mehdi@mehdizayani.com](mailto:mehdi@mehdizayani.com)  
+- 🌐 **Portfolio:** [www.mehdizayani.com](https://www.mehdizayani.com)  
+- 🔗 **LinkedIn:** [zayanimehdi](https://www.linkedin.com/in/zayanimehdi/)  
 
 ---
 
