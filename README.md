@@ -49,7 +49,7 @@ Automates deployments and build pipelines for multi-cloud projects.
 
 ## Contact
 
-- ✉️ **Email:** [mehdi@mehdizayani.com](mailto:mehdi@mehdizayani.com)  
+- ✉️ **Email:** [mehdi@mehdizayani.com](mailto:contact@mehdizayani.com)  
 - 🌐 **Portfolio:** [www.mehdizayani.com](https://www.mehdizayani.com)  
 - 🔗 **LinkedIn:** [zayanimehdi](https://www.linkedin.com/in/zayanimehdi/)  
 
