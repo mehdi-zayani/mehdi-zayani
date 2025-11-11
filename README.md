@@ -55,4 +55,3 @@ Automates deployments and build pipelines for multi-cloud projects.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehdi-zayani&style=flat-square)
